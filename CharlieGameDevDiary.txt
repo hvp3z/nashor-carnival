@@ -1,0 +1,15 @@
+Charlie Game 
+
+Comment ça marche :
+
+
+-Void update : 
+
+Press ESC = Pause game IF in game, Depause game IF in pause
+Press Right, Left = Move Charlie "Horizontal Axis"
+Press Space = Jump Charlie if Charlie.'isGrounded'
+Press fire1 = Coup de poing
+
+
+
+
